@@ -1,4 +1,5 @@
 # FontAwesomeFX Glyphsbrowser + Search Bar added 
+- Edit: compiled main App (https://github.com/derMacon/fontawesomefx-glyphsbrowser/blob/master/mainApp.jar)
 
 Without Searching
 ![search](https://user-images.githubusercontent.com/20374208/32386681-b2c17dc6-c0ca-11e7-9a68-a42155703c18.png)
